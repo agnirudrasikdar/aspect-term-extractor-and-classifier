@@ -12,8 +12,10 @@ Extternal libraries required for the script:
 - pip install spacy 
 
 ** To run ** 
-Aspect_term_analysis_and_classification.ipynb is an python notebook that can be run using
+
+- Aspect_term_analysis_and_classification.ipynb is an python notebook that can be run using
 jupyter notebook, nbviewer.
 
 To run your jupyter notebook, you can install based on the following documentation:
-http://jupyter.org/install
+
+- http://jupyter.org/install
