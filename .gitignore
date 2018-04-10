@@ -1,0 +1,8 @@
+
+\.ipynb_checkpoints/old entity extractor and classifier-checkpoint\.ipynb
+
+\.idea/
+
+classes/\.DS_Store
+
+classes/__pycache__/
