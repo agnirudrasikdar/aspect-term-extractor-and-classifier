@@ -5,11 +5,11 @@ Extternal libraries required for the script:
 
 **command to install the external dependencies** 
 
-pip install xmltodict
-pip install pandas
-pip install matplotlib
-pip install seaborn
-pip install spacy 
+- pip install xmltodict
+- pip install pandas
+- pip install matplotlib
+- pip install seaborn
+- pip install spacy 
 
 ** To run ** 
 Aspect_term_analysis_and_classification.ipynb is an python notebook that can be run using
